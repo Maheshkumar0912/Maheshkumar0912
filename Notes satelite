@@ -1,0 +1,9 @@
+#include <iostream>
+
+    int main(){
+        std::cout<<"Hello user!!"<< endl;
+        std::cout<<"welcome to notes satelite ^_^"<< endl;
+}
+__________________________output______________________________
+Hello user!!
+welcome to notes satelite ^_^
